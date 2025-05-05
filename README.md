@@ -1,33 +1,29 @@
-# Hello there, I'm Sithija!
+![Typing](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Sithija;Self-taught+Python+Learner;Loves+AI+%7C+Bots+%7C+Clean+Code&center=true&width=500&height=30)
 
-I'm a self-taught developer with a passion for building bots, experimenting with AI tools, and mastering Python. Currently learning and creating using just my mobile phone. My goal is to build meaningful, efficient, and helpful applications.
+# Hello, I'm Sithija!
 
-## Tech Stack
-- Python
-- Git & GitHub
-- Telegram Bots
-- AI APIs (DeepSeek, OpenAI, etc.)
-
-## Goals for 2025
-- Build my first AI chatbot
-- Contribute to open-source projects
-- Learn web development basics (HTML, CSS, JS)
+Aspiring developer from Sri Lanka. Learning Python, building bots, and experimenting with AI tools — all from a phone!
 
 ---
 
-> "Discipline and curiosity can take you far — even with just a phone."
+### 🔧 Languages & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<!--
-**xkoda/xkoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎯 2025 Goals
+- Build a chatbot with AI features
+- Contribute to open-source projects
+- Learn basic web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+[![View Projects](https://img.shields.io/badge/-My%20Projects-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME?tab=repositories)
+[![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+
+---
+
+> “Discipline and curiosity can take you far — even with just a phone.”
