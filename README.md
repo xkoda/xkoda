@@ -22,7 +22,7 @@ Aspiring developer from Sri Lanka. Learning Python, building bots, and experimen
 ---
 
 [![View Projects](https://img.shields.io/badge/-My%20Projects-black?style=for-the-badge&logo=github)](https://github.com/xkoda?tab=repositories)
-[![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto: sankalpakoda@gmail.com)
+[![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto:sankalpakoda@gmail.com)
 
 ---
 
