@@ -1,83 +1,53 @@
-"""
-Sithija Sankalpa (xkoda/Koda) - AI & Python Developer Profile
-"""
-import random
+<h1 align="center">Hi there, I'm Sithija Sankalpa (xkoda/Koda) 👋</h1>
 
-class DeveloperProfile:
-    def __init__(self):
-        self.name = "Sithija Sankalpa"
-        self.username = "xkoda"
-        self.title = "Self-taught AI & Python Developer"
-        self.skills = {
-            'languages': ['Python', 'JavaScript', 'HTML/CSS'],
-            'ai_tech': ['Machine Learning', 'Neural Networks', 'NLP'],
-            'tools': ['TensorFlow', 'PyTorch', 'OpenCV', 'Pandas']
-        }
-        self.links = {
-            'blog': 'https://soleaai.blogspot.com',
-            'twitter': 'https://x.com/xsithij',
-            'email': 'sankalpakoda@gmail.com'
-        }
-    
-    def generate_banner(self):
-        ai_art = """
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀
-        �⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠛⠛⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀
-        ⠀⣾⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠿⣿⣿⣿⣿⣿⣷⠀⠀
-        ⢸⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⡇⠀
-        ⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⠀
-        ⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⠀
-        ⢹⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⣿⡏⠀
-        ⠀⢻⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⠏⠀⠀
-        ⠀⠀⠻⣿⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣾⣿⣿⠟⠁⠀⠀⠀
-        ⠀⠀⠀⠈⠻⣿⣿⣿⣿⣶⣦⣤⣄⣀⣀⣀⣀⣀⣀⣀⣠⣤⣶⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-        """
-        return ai_art
-    
-    def generate_readme(self):
-        banner = self.generate_banner()
-        
-        readme = f"""
-# {self.name} ({self.username})  
-{banner}
-### {self.title}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xkoda/xkoda/main/ai-tech-banner.png" alt="AI Tech Banner" width="100%" />
+</p>
 
-Passionate about creating intelligent systems and efficient code.  
-Exploring the intersection of AI and software development.
+<p align="center">
+  <em>Self-taught Developer | Python & AI Enthusiast | Building the Future from My Phone</em>
+</p>
 
-## 🔧 Technologies & Skills
+---
 
-### Programming Languages  
-{" ".join([f"`{lang}`" for lang in self.skills['languages']])}
+### 🔥 About Me
+- Passionate about **clean code, automation**, and **AI**.
+- 📱 Learning Python, building bots, and experimenting with AI tools — _all from a phone!_
+- ✨ Believer in: _"Discipline and curiosity can take you far — even with just a phone."_
 
-### AI/ML Expertise  
-{" ".join([f"`{tech}`" for tech in self.skills['ai_tech']])}
+---
 
-### Tools & Frameworks  
-{" ".join([f"`{tool}`" for tool in self.skills['tools']])}
+### 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![AI](https://img.shields.io/badge/AI-FF6F00?logo=OpenAI&logoColor=white)
 
-## 🌐 Connect With Me
+---
 
-📝 Blog: [{self.links['blog']}]({self.links['blog']})  
-🐦 Twitter: [{self.links['twitter']}]({self.links['twitter']})  
-📧 Email: {self.links['email']}
+### 🎯 2025 Goals
+- 🤖 Build an **AI-powered chatbot**.
+- 🌍 Contribute to **open-source projects**.
+- 🌐 Learn **web development** (HTML/CSS/JS).
 
-## 🚀 Current Projects
+---
 
-- Developing AI solutions at Solea AI  
-- Building Python tools for machine learning workflows  
-- Writing about AI concepts on my blog
+### 🚧 Projects
+_Work in progress — stay tuned!_
 
-```python
-# Sample AI code
-def neural_network(inputs):
-    layers = [Dense(64, activation='relu'), 
-              Dense(32, activation='relu'),
-              Dense(10, activation='softmax')]
-    for layer in layers:
-        inputs = layer(inputs)
-    return inputs
+- **Solea AI**: My AI experiments and blog → [soleaai.blogspot.com](https://soleaai.blogspot.com)
+
+---
+
+### 📊 GitHub Stats
+![Sithija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkoda&show_icons=true&theme=radical)
+
+---
+
+### 📬 Let's Connect!
+- **Email:** sankalpakoda@gmail.com  
+- **Twitter/X:** [@xkoda](https://twitter.com/xkoda)
+
+---
+
+> _"Turning ideas into code — one tap at a time."_
