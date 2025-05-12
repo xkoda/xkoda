@@ -1,64 +1,83 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Sithija+Sankalpa;Python+%26+AI+Enthusiast;Building+from+My+Phone!&center=true&size=24">
-</h1>
+"""
+Sithija Sankalpa (xkoda/Koda) - AI & Python Developer Profile
+"""
+import random
 
-<p align="center">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
-</p>
+class DeveloperProfile:
+    def __init__(self):
+        self.name = "Sithija Sankalpa"
+        self.username = "xkoda"
+        self.title = "Self-taught AI & Python Developer"
+        self.skills = {
+            'languages': ['Python', 'JavaScript', 'HTML/CSS'],
+            'ai_tech': ['Machine Learning', 'Neural Networks', 'NLP'],
+            'tools': ['TensorFlow', 'PyTorch', 'OpenCV', 'Pandas']
+        }
+        self.links = {
+            'blog': 'https://soleaai.blogspot.com',
+            'twitter': 'https://x.com/xsithij',
+            'email': 'sankalpakoda@gmail.com'
+        }
+    
+    def generate_banner(self):
+        ai_art = """
+        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+        ⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⠀⠀⠀⠀⠀⠀
+        ⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀
+        �⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠛⠛⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀
+        ⠀⣾⣿⣿⣿⣿⣿⣿⠿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠿⣿⣿⣿⣿⣿⣷⠀⠀
+        ⢸⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⡇⠀
+        ⣿⣿⣿⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⠀
+        ⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⠀
+        ⢹⣿⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣸⣿⡏⠀
+        ⠀⢻⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣿⣿⠏⠀⠀
+        ⠀⠀⠻⣿⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣤⣾⣿⣿⠟⠁⠀⠀⠀
+        ⠀⠀⠀⠈⠻⣿⣿⣿⣿⣶⣦⣤⣄⣀⣀⣀⣀⣀⣀⣀⣠⣤⣶⣿⣿⣿⣿⠿⠋⠀⠀⠀⠀⠀⠀
+        ⠀⠀⠀⠀⠀⠀⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+        ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+        """
+        return ai_art
+    
+    def generate_readme(self):
+        banner = self.generate_banner()
+        
+        readme = f"""
+# {self.name} ({self.username})  
+{banner}
+### {self.title}
 
-## 👋 I'm Sithija Sankalpa (xkoda/Koda)
+Passionate about creating intelligent systems and efficient code.  
+Exploring the intersection of AI and software development.
 
-`Self-taught Developer` | `Python & AI Enthusiast` | `Building the Future from My Phone`
+## 🔧 Technologies & Skills
 
-📍 Sri Lanka | 📧 sankalpakoda@gmail.com  
-🔗 [Blog](https://soleaai.blogspot.com) | [Twitter/X](https://twitter.com/)
+### Programming Languages  
+{" ".join([f"`{lang}`" for lang in self.skills['languages']])}
 
----
+### AI/ML Expertise  
+{" ".join([f"`{tech}`" for tech in self.skills['ai_tech']])}
 
-## 🔥 About Me
+### Tools & Frameworks  
+{" ".join([f"`{tool}`" for tool in self.skills['tools']])}
 
-- Passionate about **clean code**, **automation**, and **AI**.  
-- 📱 Learning Python, building bots, and experimenting with AI tools — *all from a phone!*  
-- ✨ Believer in: *"Discipline and curiosity can take you far — even with just a phone."*
+## 🌐 Connect With Me
 
----
+📝 Blog: [{self.links['blog']}]({self.links['blog']})  
+🐦 Twitter: [{self.links['twitter']}]({self.links['twitter']})  
+📧 Email: {self.links['email']}
 
-## 🛠️ Skills & Tools  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
-![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux)  
-![AI](https://img.shields.io/badge/-AI-orange?style=flat-square&logo=opencv)
+## 🚀 Current Projects
 
----
+- Developing AI solutions at Solea AI  
+- Building Python tools for machine learning workflows  
+- Writing about AI concepts on my blog
 
-## 🎯 2025 Goals
-
-- 🤖 Build an **AI-powered chatbot**  
-- 🧠 Contribute to **open-source projects**  
-- 🌐 Learn **web development** (HTML/CSS/JS)  
-
----
-
-## 🚧 Projects  
-*(Work in Progress — Stay Tuned!)*  
-- **Solea AI**: My AI experiments and blog.
-
----
-
-## 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xkoda&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Sithija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xkoda&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkoda&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect!
-
-📧 Email: sankalpakoda@gmail.com  
-🐦 Twitter/X: [@xkoda](https://twitter.com/)
-
----
-
-![](https://komarev.com/ghpvc/?username=xkoda&label=Profile+Views)
+```python
+# Sample AI code
+def neural_network(inputs):
+    layers = [Dense(64, activation='relu'), 
+              Dense(32, activation='relu'),
+              Dense(10, activation='softmax')]
+    for layer in layers:
+        inputs = layer(inputs)
+    return inputs
