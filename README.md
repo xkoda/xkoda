@@ -45,7 +45,41 @@ _Work in progress — stay tuned!_
 ### 📬 Let's Connect!
 - [![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto:sankalpakoda@gmail.com)
 - **Twitter/X:** [@xkoda](https://twitter.com/xkoda)
+"""
+Twitter/X Profile Card for GitHub README
+"""
+from datetime import datetime
 
+class TwitterCard:
+    def __init__(self):
+        self.username = "xsithij"
+        self.display_name = "Sithija Sankalpa (xkoda)"
+        self.bio = "AI Developer | Python Specialist | Tech Blogger"
+        self.current_year = datetime.now().year
+        self.stats = {
+            'tweets': '500+',
+            'topics': ['AI', 'Python', 'Open Source'],
+            'engagement': 'Active Daily'
+        }
+    
+    def generate_card(self):
+        return f"""
+<div align="center">
+  
+### 🚀 Twitter/X Profile
+
+<a href="https://x.com/{self.username}">
+  <img src="https://img.shields.io/badge/Twitter-{self.username}-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+**{self.display_name}**  
+*"{self.bio}"*
+
+```python
+# {self.current_year} Twitter Activity
+tweets = {self.stats['tweets']}  # Tech/AI focused
+topics = {self.stats['topics']}
+engagement = "{self.stats['engagement']}"
 ---
 
 > _"Turning ideas into code — one tap at a time."_
