@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/xkoda/xkoda/main/ai-tech-banner.png
+
 <h1 align="center">Hi there, I'm Sithija Sankalpa (xkoda/Koda) 👋</h1>
 
 <p align="center">
