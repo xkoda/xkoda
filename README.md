@@ -43,7 +43,7 @@ _Work in progress — stay tuned!_
 ---
 
 ### 📬 Let's Connect!
-- **Email:** sankalpakoda@gmail.com  
+- [![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto:sankalpakoda@gmail.com)
 - **Twitter/X:** [@xkoda](https://twitter.com/xkoda)
 
 ---
