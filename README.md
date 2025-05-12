@@ -44,9 +44,11 @@ _Work in progress — stay tuned!_
 
 ### 📬 Let's Connect!
 
-📫 How to reach me:  
-[![Email](https://img.shields.io/badge/Email-sankalpakoda@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalpakoda@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-@xkoda__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xsithij)
+### 🌐 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-sankalpakoda@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalpakoda@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@xkoda__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xkoda__)
+[![Blog](https://img.shields.io/badge/Blog-Solea_AI-0A0A0A?style=for-the-badge&logo=hashnode&logoColor=white)](https://soleaai.blogspot.com)
 
 
 > _"Turning ideas into code — one tap at a time."_
