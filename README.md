@@ -1,29 +1,41 @@
-Hi+there!+I'm+Sithija;Self-taught+Python+Learner;Loves+AI+%7C+Bots+%7C+Clean+Code&center=true&width=500&height=30)
+# 👋 Hello, I'm Sithija Sankalpa (xkoda/Koda)  
 
-# Hello, I'm Sithija!
+**Self-taught Developer | Python & AI Enthusiast | Building the Future from My Phone**  
 
-Aspiring developer from Sri Lanka. Learning Python, building bots, and experimenting with AI tools — all from a phone!
-
----
-
-### 🔧 Languages & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+📍 **Sri Lanka** | ✉️ [sankalpakoda@gmail.com](mailto:sankalpakoda@gmail.com)  
+🌐 [Blog](https://soleaai.blogspot.com) | 🐦 [Twitter/X](https://x.com/xsithij)  
 
 ---
 
-### 🎯 2025 Goals
-- Build a chatbot with AI features
-- Contribute to open-source projects
-- Learn basic web development
+### 🚀 **About Me**  
+- Passionate about **clean code, automation, and AI**.  
+- Learning Python, building bots, and experimenting with AI tools — *all from a phone!*  
+- Believer in: *"Discipline and curiosity can take you far — even with just a phone."*  
 
 ---
 
-[![View Projects](https://img.shields.io/badge/-My%20Projects-black?style=for-the-badge&logo=github)](https://github.com/xkoda?tab=repositories)
-[![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto:sankalpakoda@gmail.com)
+### 🛠️ **Skills & Tools**  
+`Python` `Git/GitHub` `Linux` `AI Tools`  
 
 ---
 
-> “Discipline and curiosity can take you far — even with just a phone.”
+### 🎯 **2025 Goals**  
+- Build an **AI-powered chatbot**.  
+- Contribute to **open-source projects**.  
+- Learn **web development (HTML/CSS/JS)**.  
+
+---
+
+### 🔥 **Projects**  
+**(Work in Progress — Stay Tuned!)**  
+- [Solea AI](https://soleaai.blogspot.com): *My AI experiments and blog.*  
+
+---
+
+### 📈 **GitHub Stats**  
+*(You can add dynamic stats later using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))*  
+
+---
+
+#### ❤️ **Let's Connect!**  
+📫 How to reach me: [Email](mailto:sankalpakoda@gmail.com) | [Twitter](https://x.com/xsithij)  
