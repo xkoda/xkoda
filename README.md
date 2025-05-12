@@ -43,9 +43,10 @@ _Work in progress — stay tuned!_
 ---
 
 ### 📬 Let's Connect!
-- [![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto:sankalpakoda@gmail.com)
-- **Twitter/X:** [@xkoda](https://twitter.com/xkoda)
-"""
+
+📫 How to reach me:  
+[![Email](https://img.shields.io/badge/Email-sankalpakoda@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankalpakoda@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-@xkoda__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xsithij)
 
 
 > _"Turning ideas into code — one tap at a time."_
