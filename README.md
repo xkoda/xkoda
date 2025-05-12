@@ -46,6 +46,7 @@ _Work in progress — stay tuned!_
 
 [![Email Me](https://img.shields.io/badge/-Contact-blue?style=for-the-badge&logo=gmail)](mailto:sankalpakoda@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xsithij)
+[![View Projects](https://img.shields.io/badge/-My%20Projects-black?style=for-the-badge&logo=github)](https://github.com/xkoda?tab=repositories)
 
 
 > _"Turning ideas into code — one tap at a time."_
