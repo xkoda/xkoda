@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/xkoda/xkoda/main/ai-tech-banner.png
+![Typing](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Sithija;Self-taught+Python+Learner;Loves+AI+%7C+Bots+%7C+Clean+Code&center=true&width=500&height=30)
 
 <h1 align="center">Hi there, I'm Sithija Sankalpa (xkoda/Koda) 👋</h1>
 
