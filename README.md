@@ -32,7 +32,6 @@
 
 ### 🚧 Projects
 _Work in progress — stay tuned!_
-
 - **Solea AI**: My AI experiments and blog →
  [![Blog](https://img.shields.io/badge/-Solea%20AI-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://soleaai.blogspot.com)
 
