@@ -1,6 +1,6 @@
 ![Typing](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Sithija;Self-taught+Python+Learner;Loves+AI+%7C+Bots+%7C+Clean+Code&center=true&width=500&height=30)
 
-<h1 align="center">Hi there, I'm Sithija Sankalpa (xkoda/) 👋</h1>
+<h1 align="center">Hi there, I'm Sithija Sankalpa (xkoda) 👋</h1>
 
 <p align="center">
   <em>Self-taught Developer | Python & AI Enthusiast | Building the Future from My Phone</em>
