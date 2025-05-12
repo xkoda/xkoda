@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Sithija Sankalpa (xkoda/Koda) 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xkoda/xkoda/main/ai-tech-banner.png" alt="AI Tech Banner" width="100%" />
-</p>
-
-<p align="center">
   <em>Self-taught Developer | Python & AI Enthusiast | Building the Future from My Phone</em>
 </p>
 
