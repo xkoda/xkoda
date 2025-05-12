@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sithija Sankalpa (xkoda/Koda)  
+# 👋  I'm Sithija Sankalpa (xkoda/Koda)  
 
 **`Self-taught Developer`** | **`Python & AI Enthusiast`** | **`Building the Future from My Phone`**  
 
